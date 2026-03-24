@@ -12,7 +12,7 @@ This folder contains video game references, with a focus on poetic, short-form, 
 
 ### Pippin Barr
 - [Portfolio](https://pippinbarr.com/)
-- [It is as if you were doing work](https://pippinbarr.com/itisasifyouweredoingwork/)
+- [It is as if you were doing work, 2017](https://pippinbarr.com/itisasifyouweredoingwork/)
 
 ### Molleindustria
 - [Every Day The Same Day, 2009](https://molleindustria.org/everydaythesamedream/everydaythesamedream.html)
