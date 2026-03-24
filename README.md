@@ -1,5 +1,5 @@
 # Video-game-database from the HEAD video game chit chat club
-This folder contains video game references, with a focus on poetic, short-form, and experimental games—plus the communities and writing around them.
+This folder contains video game references, with a focus on poetic, short-form, and experimental games — plus the communities and writing around them.
 
 # Categories
 
