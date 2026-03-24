@@ -5,7 +5,7 @@ This folder contains video game references, with a focus on poetic, short-form, 
 
 ## Auteurs / creators
 ### Jason Rohrer (Game poet pioneer)
-- [Passage](http://passage.toolness.org/)
+- [Passage, 2007](http://passage.toolness.org/)
 
 ### Jordan Magnuson (Game poetic Magazine curator)
 - [Portfolio](https://jordanmagnuson.itch.io/)
