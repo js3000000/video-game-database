@@ -10,6 +10,10 @@ This folder contains video game references, with a focus on poetic, short-form, 
 ### Jordan Magnuson (Game poetic Magazine curator)
 - [Portfolio](https://jordanmagnuson.itch.io/)
 
+### Pippin Barr
+- [Portfolio](https://pippinbarr.com/)
+- [It is as if you were doing work](https://pippinbarr.com/itisasifyouweredoingwork/)
+
 ### Molleindustria
 - [Every Day The Same Day, 2009](https://molleindustria.org/everydaythesamedream/everydaythesamedream.html)
 
