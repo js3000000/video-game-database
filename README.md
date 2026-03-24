@@ -10,6 +10,10 @@ This folder contains video game references, with a focus on poetic, short-form, 
 ### Jordan Magnuson (Game poetic Magazine curator)
 - [Portfolio](https://jordanmagnuson.itch.io/)
 
+### Molleindustria
+- [Molleindustria](https://molleindustria.org/)
+- [Every Day The Same Day](https://molleindustria.org/everydaythesamedream/everydaythesamedream.html)
+
 ## Publications / magazines
 - [Game Poems Magazine Issue #1](https://www.gamepoems.com/issue01/)
 
