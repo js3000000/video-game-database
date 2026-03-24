@@ -4,8 +4,11 @@ This folder contains video game references, with a focus on poetic, short-form, 
 # Categories
 
 ## Auteurs / creators
-### Jason Rohrer
+### Jason Rohrer (Game poet pioneer)
 - [Passage](http://passage.toolness.org/)
+
+### Jordan Magnuson (Game poetic Magazine curator)
+- [Portfolio](https://jordanmagnuson.itch.io/)
 
 ## Publications / magazines
 - [Game Poems Magazine Issue #1](https://www.gamepoems.com/issue01/)
@@ -18,4 +21,4 @@ This folder contains video game references, with a focus on poetic, short-form, 
 - [Gamepoemsbook](https://www.gamepoemsbook.com/)
 
 ## Communities
-- [Discord](https://discord.gg/NXVgE9v9R9)
+- [Discord Game Poets](https://discord.gg/NXVgE9v9R9)
