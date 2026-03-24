@@ -11,15 +11,15 @@ This folder contains video game references, with a focus on poetic, short-form, 
 - [Portfolio](https://jordanmagnuson.itch.io/)
 
 ### Molleindustria
-- [Molleindustria](https://molleindustria.org/)
-- [Every Day The Same Day](https://molleindustria.org/everydaythesamedream/everydaythesamedream.html)
+- [Every Day The Same Day, 2009](https://molleindustria.org/everydaythesamedream/everydaythesamedream.html)
 
 ## Publications / magazines
 - [Game Poems Magazine Issue #1](https://www.gamepoems.com/issue01/)
 
 ## Curations / collections / platforms
+- [Molleindustria](https://molleindustria.org/)
 - [Meditations](https://meditations.games/)
-- [Jordan Magnuson collection](https://itch.io/c/381406/curated-game-poems)
+- [Jordan Magnuson´s collection](https://itch.io/c/381406/curated-game-poems)
 
 ## Writing / theory
 - [Gamepoemsbook](https://www.gamepoemsbook.com/)
