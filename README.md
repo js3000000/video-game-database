@@ -1,9 +1,17 @@
 # Video-game-database from the HEAD video game chit chat club
-This folder contains video game references, with a focus on poetic, short-form, and experimental games — plus the communities and writing around them.
+This folder contains video game references (that are free to play), with a focus on poetic, short-form, and experimental games — plus the communities and writing around them.
 
 # Categories
 
 ## Auteurs / creators
+
+### Terry Cavanagh
+- [Don´t Look Back, 2009](https://flasharch.com/en/archive/play/3e26e7b4a5f9fb07542d1ecb89fc36bb)
+- [Portfolio](https://terrycavanaghgames.com/)
+
+### Bri
+- [I Sell Seashell On The Seashore, 2016](https://sabrina-k.itch.io/i-sell-seashells-on-the-seashore)
+
 ### Jason Rohrer (Game poet pioneer)
 - [Passage, 2007](http://passage.toolness.org/)
 
