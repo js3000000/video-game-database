@@ -37,10 +37,11 @@ This folder contains (free) video game references, with a focus on poetic, short
 ## Writing / theory
 - [Gamepoemsbook](https://www.gamepoemsbook.com/)
 
-## Game engines
+## Game engine
 
 - [bitsy](https://www.bitsy.org/)
 - [gb studio](https://www.gbstudio.dev/)
+- [godot](https://godotengine.org/)
 
 ## Communities
 - [Discord Game Poets](https://discord.gg/NXVgE9v9R9)
