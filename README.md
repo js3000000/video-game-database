@@ -32,9 +32,15 @@ This folder contains (free) video game references, with a focus on poetic, short
 - [Molleindustria](https://molleindustria.org/)
 - [Meditations](https://meditations.games/)
 - [Jordan Magnuson´s collection](https://itch.io/c/381406/curated-game-poems)
+- [bitsy](https://itch.io/games/made-with-bitsy)
 
 ## Writing / theory
 - [Gamepoemsbook](https://www.gamepoemsbook.com/)
+
+## Game engines
+
+- [bitsy](https://www.bitsy.org/)
+- [gb studio](https://www.gbstudio.dev/)
 
 ## Communities
 - [Discord Game Poets](https://discord.gg/NXVgE9v9R9)
